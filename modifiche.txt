@@ -1,0 +1,25 @@
+cambiare colore sfondo login.php
+
+centrare credenziali accesso/ allargare finestra login.php
+
+
+avvicinare opzioni navabar
+
+corregere navabr multiplo
+
+
+modifica.php{**
+
+ combo punti vendita con modifica e salvataggio
+
+}
+
+navbarside{
+ al refresh non chiudere navbar
+
+}
+
+
+interfaccia utente : uguale ad admin senza opzioni logo Nome_utente al posto di opzione homepage:Inserimento
+
+Inserimento: data(server) incasso,scrontrini,pass,PZV,meteo,PSG(int),sc. resi(int) pulsante invia 
